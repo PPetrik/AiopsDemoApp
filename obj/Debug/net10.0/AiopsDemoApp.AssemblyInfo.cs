@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AiopsDemoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c5450c9a72ef32df0c46a72fbc8784094d36a47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47ba62ae1d99e7f371d876725c34f77496013049")]
 [assembly: System.Reflection.AssemblyProductAttribute("AiopsDemoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AiopsDemoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
